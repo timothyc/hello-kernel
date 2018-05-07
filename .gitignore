@@ -1,2 +1,12 @@
 */libs
 */obj
+
+*.cmd
+*.ko
+*.mod.c
+*.o
+*.rc
+
+modules.order
+Module.symvers
+*/.tmp_versions
